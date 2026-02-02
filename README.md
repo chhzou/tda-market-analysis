@@ -24,6 +24,7 @@ This project applies **Algebraic Topology** to financial time-series analysis. B
     ```
 3.  Output:
     * Generates `tda_result.png` showing the S&P 500 crash period alongside its persistence diagram.
+<img width="1400" height="600" alt="tda_result" src="https://github.com/user-attachments/assets/1a0aff8b-27c3-47b7-8462-409b8c865bf3" />
 
 ## Results Interpretation
 * **Points far from the diagonal** in the Persistence Diagram represent robust topological features (significant loops/cycles in the market state).
