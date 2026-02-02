@@ -1,0 +1,23 @@
+# Data and temporary files
+*.csv
+*.xlsx
+.ipynb_checkpoints/
+
+# Project-specific outputs
+tda_result.png
+market_analysis_plot.png
+
+# Python environment and cache
+__pycache__/
+*.pyc
+venv/
+env/
+.env
+
+# Distribution / Build
+dist/
+build/
+*.egg-info/
+
+# MacOS system files
+.DS_Store
